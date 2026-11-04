@@ -12,7 +12,7 @@ AI/ML Enthusiast • B.Tech CSE @ IIIT Bhubaneswar • BS Data Science @ IIT Mad
 
 ---
 
-## ABOUT ME
+## About Me
 
 - 🎓 B.Tech in Computer Science & Engineering at **IIIT Bhubaneswar**
 - 🎓 BS in Data Science & Applications at **IIT Madras**
