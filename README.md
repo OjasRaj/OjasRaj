@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ojas Raj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi, I'm Ojas Raj</h1>
+<h3 align="center">Ex-Intern IIT Kharagpur || B.Tech CSE29' IIIT Bhubaneswar || B.S. Data Science 29' IIT Madras </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojasraj&label=Profile%20views&color=0e75b6&style=flat" alt="ojasraj" /> </p>
 
