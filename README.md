@@ -18,7 +18,7 @@ AI/ML Enthusiast • B.Tech CSE @ IIIT Bhubaneswar • BS Data Science @ IIT Mad
 - 🎓 BS in Data Science & Applications at **IIT Madras**
 - 🔬 Former Research Intern at **SWAN Lab, IIT Kharagpur**
 - 🤖 Interested in **Machine Learning, Deep Learning, Digital Twins, IoT, and Edge AI**
-- 🌱 Currently learning **Advanced ML, Deep Learning, and Generative AI**
+- 🌱 Currently learning **Advanced ML and Deep Learning**
 - 💡 Passionate about building AI-powered real-world applications
 - 📫 Reach me at: **ojasraj2020@gmail.com**
 
