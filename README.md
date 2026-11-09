@@ -14,7 +14,7 @@ AI/ML Enthusiast • B.Tech CSE @ IIIT Bhubaneswar • BS Data Science @ IIT Mad
 
 ## About Me
 
-- 🔬 Former Summer Research Intern at **SWAN Lab, IIT Kharagpur**
+- 🔬 Former Summer Research Intern at **SWAN Lab, IIT Kharagpur** || Upcoming Winter Intern at **IIT Bhubaneswar**
 - 🎓 B.Tech in Computer Science & Engineering at **IIIT Bhubaneswar**
 - 🎓 BS in Data Science & Applications at **IIT Madras**
 - 🤖 Interested in **Machine Learning, Deep Learning, Digital Twins, IoT, and Edge AI**
